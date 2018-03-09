@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/ipfs-shipyard/ipfs-pubsub-room#readme",
   "dependencies": {
-    "DaoCasino/js-ipfs": "^0.28.0",
+    "ipfs": "DaoCasino/js-ipfs",
     "hyperdiff": "^2.0.3",
     "lodash.clonedeep": "^4.5.0",
     "pull-pushable": "^2.1.1",
